@@ -39,7 +39,8 @@ function load$ (html) {
 }
 
 async function main () {
-    const promiseAll = []
+	console.log("数据爬取开始");
+    const promiseAll = [];
     data.forEach((item, idx) => {
         promiseAll.push(new Promise(async (resolve, reject) => {
             load(url, item).then(html => {
