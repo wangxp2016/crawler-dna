@@ -1,0 +1,12 @@
+[
+  {
+    "DNANAME": "Angaracris_nigripennis_tRNA_Val",
+    "SEQUENCE": "CAAGACAAATCTTTATAGTAAAGTATATCATTTACACTGATTTTTTTTCTGTGCAATTCAGGATGTTTTGA",
+    "STRUCTURE": "(((((((..(((((((((.((((...((((.......))))...)))))))))......)))))))))))."
+  },
+  {
+    "DNANAME": "12S_rRNA",
+    "SEQUENCE": "TTTAAGAAATTTATTTTTAGTATATCTGTTCTATCTAGAGTTTTAAAGTTTTATTCTTGCTTATAAATTCATTATTTCTTTATGTTACATATAAGTTTTGTTTTACTAAATGTTCTATTTTGTAGTAATTAAATTTAATTATCAAGTTATTTTGGAATTAGTAATTGATAAAGTACTGGTAAATTTCGTGCCAGCAGCCGCGGTTACACGATTAGTACAATTGAATATTTTTGGTTAATATAGTTATTAGTATATTTGAGTTTTATTTTGATTTTATTAGGTGAAATTTCATTTTTTAGTATAACTCTTTATTATGAACCTATGAAACTTAAGAGATAAACTAGGATTAGATACCCTATTATTTTAAGTGTTAATTTAAATTGCCTGGGTAGTATTAGTTAGGGTCTTTAAACTCAAAGAATTTGGCGGTATTTCATTCCATTCAGAGGAACCTGTCTCGTAATTGATAGTACACAATTAACTTTACTTAATTTATTTGTTTGTATATCTCCGTTATCGGAAAATCTTTTTGGAGTTATAATTTTCCTGTTTTTCCATTAAAAATTATCTCAGGTCAAGGTGCAGCTTATAGTTAAGTGTATGATGGGTTACAATAAATTTTTTTATTATGAATTTGGTTTTGGAATATTTTAATGAAGGTGGATTTGATAGTAATTTGATTTATTTAATTTAATTGATATTGGCTCTGAAATGTGTACACATCGCCCGTCACTCTCATTATTGATTATTATTTAATTTATTATCAATTAATATGAGATAAGTCGTAACATAGTAGATGTACTGGAAAGTGTATCTAGTAAGTTTTAA",
+    "STRUCTURE": ".....(((((((((((((((((((((((.........((((((..((((.........))))..)))))).........(((((((((...(((((((.(((((((.(((((...))))).)))).))).)))))))..((((((.(((((........)))))))))))((((((((.(((((((((((((.((....))))...))))((((((((...((((...(((((.((((((.(((((..((((...........)))).))))).)))))).))))).))))..(((((((.((.(((((..(((((....))))).....))))).)).))))))).....(((((......(((((((....)))))))......)))))))))))))..((((......))))...))))))).))))))))...(((.......)))((.(((((((((((((((((((.((((.(((.((.....)).))).))))...((((.(((((.....(((...)))...))))).)))).....((((.....................)))).((..(((((.((((....)))))))))..))(((((.((((((((...((((((((((((((.(((((...........))))).))))))).)))))))...)))))))))))))(((((((((.(((...(((...(((.......)))...)))...))).)))))))))..........))))))))))...))))))))).)).)))))))))))))))))))))))..........))))))))).."
+  }
+]
